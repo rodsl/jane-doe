@@ -38,10 +38,41 @@ ul.anchor-block li a {
   background-position: center;
 }
 
+
 #music {
     max-width: 800px;
     margin: 0 auto;
     width: 100%;
+}
+#about {
+  max-width: 800px;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+#contact {
+    max-width: 800px;
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+#contact div {
+  border-bottom: 1px solid rgb(182, 182, 182);
+}
+#about-image {
+  background-image: url("../img/jane2.jpg");
+  height: 30vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-bottom: 2rem;
+}
+
+h2 {
+font-size: 2rem;
+}
+h3 {
+font-size: 1.4rem;
 }
 
 footer {
